@@ -1,0 +1,5 @@
+{
+  "label": "SYNTHETIC_DEMO_DATA_NOT_REAL_JOB_LISTINGS",
+  "resume_text": "Aarav Sharma\nEmail: aarav@example.com\nPhone: +91 98765 43210\nSkills\nPython, SQL, Pandas, FastAPI, Git\nProjects\nBuilt a Python data analysis project using Pandas and SQL. Created REST API endpoints with FastAPI and wrote basic tests.\nEducation\nBSc Computer Science",
+  "job_description": "Junior Data Analyst / Python Developer. Required skills: Python, SQL, Pandas, data analysis, data visualization, FastAPI, Docker, Git. Responsibilities include building data pipelines, creating reports, testing APIs, and communicating findings."
+}
